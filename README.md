@@ -42,11 +42,5 @@ Contained within this repository are NetApp Ansible playbooks
     multi-part/04_network_setup.yml<br>
     multi-part/05_create_volume.yml<br>
     multi-part/06_mount_nfs_datastore.yml<br>
-
-    This plabook is part of my second Ansible/NetApp/VMware blog post:<br>
-    https://www.sysadmintutorials.com/creating-multi-part-ansible-playbook-with-variables-netapp-vmware/<br>
-    
-    These runbooks are an improvement on the one gigantic runbook created in step 1. above.
-    Please head on over to the blog post to read what has changed.
     
     To run this ansible playbook simply execute: ansible-playbook netapp_full_install_multi-part.yml
